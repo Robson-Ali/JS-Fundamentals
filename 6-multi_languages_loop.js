@@ -1,6 +1,6 @@
 const lines = [
-'C is fun'
-'Python is cool'
+'C is fun',
+'Python is cool',
 'JavaScript is amazing'
 ];
 for (i = 0; i < lines.length; i++) {
